@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\govar\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {}
+    "D:\\git test\\MyGitPrivateRepository\\WebApplication1\\WebApplication1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\govar\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj": {
+    "D:\\git test\\MyGitPrivateRepository\\WebApplication1\\WebApplication1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\govar\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectUniqueName": "D:\\git test\\MyGitPrivateRepository\\WebApplication1\\WebApplication1.csproj",
         "projectName": "WebApplication1",
-        "projectPath": "C:\\Users\\govar\\source\\repos\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
+        "projectPath": "D:\\git test\\MyGitPrivateRepository\\WebApplication1\\WebApplication1.csproj",
         "packagesPath": "C:\\Users\\govar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\govar\\source\\repos\\WebApplication1\\WebApplication1\\obj\\",
+        "outputPath": "D:\\git test\\MyGitPrivateRepository\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\govar\\AppData\\Roaming\\NuGet\\NuGet.Config",

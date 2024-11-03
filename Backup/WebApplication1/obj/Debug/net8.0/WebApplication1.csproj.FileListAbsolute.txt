@@ -1,0 +1,61 @@
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\appsettings.json
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+C:\Users\govar\source\repos\WebApplication1\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll
+D:\git test\test\WebApplication1\bin\Debug\net8.0\appsettings.Development.json
+D:\git test\test\WebApplication1\bin\Debug\net8.0\appsettings.json
+D:\git test\test\WebApplication1\bin\Debug\net8.0\WebApplication1.staticwebassets.runtime.json
+D:\git test\test\WebApplication1\bin\Debug\net8.0\WebApplication1.exe
+D:\git test\test\WebApplication1\bin\Debug\net8.0\WebApplication1.deps.json
+D:\git test\test\WebApplication1\bin\Debug\net8.0\WebApplication1.runtimeconfig.json
+D:\git test\test\WebApplication1\bin\Debug\net8.0\WebApplication1.dll
+D:\git test\test\WebApplication1\bin\Debug\net8.0\WebApplication1.pdb
+D:\git test\test\WebApplication1\obj\Debug\net8.0\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git test\test\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfoInputs.cache
+D:\git test\test\WebApplication1\obj\Debug\net8.0\WebApplication1.AssemblyInfo.cs
+D:\git test\test\WebApplication1\obj\Debug\net8.0\WebApplication1.csproj.CoreCompileInputs.cache
+D:\git test\test\WebApplication1\obj\Debug\net8.0\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+D:\git test\test\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cache
+D:\git test\test\WebApplication1\obj\Debug\net8.0\WebApplication1.RazorAssemblyInfo.cs
+D:\git test\test\WebApplication1\obj\Debug\net8.0\WebApplication1.sourcelink.json
+D:\git test\test\WebApplication1\obj\Debug\net8.0\staticwebassets.build.json
+D:\git test\test\WebApplication1\obj\Debug\net8.0\staticwebassets.development.json
+D:\git test\test\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.WebApplication1.Microsoft.AspNetCore.StaticWebAssets.props
+D:\git test\test\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApplication1.props
+D:\git test\test\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication1.props
+D:\git test\test\WebApplication1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApplication1.props
+D:\git test\test\WebApplication1\obj\Debug\net8.0\staticwebassets.pack.json
+D:\git test\test\WebApplication1\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\git test\test\WebApplication1\obj\Debug\net8.0\scopedcss\bundle\WebApplication1.styles.css
+D:\git test\test\WebApplication1\obj\Debug\net8.0\scopedcss\projectbundle\WebApplication1.bundle.scp.css
+D:\git test\test\WebApplication1\obj\Debug\net8.0\WebApplication1.dll
+D:\git test\test\WebApplication1\obj\Debug\net8.0\refint\WebApplication1.dll
+D:\git test\test\WebApplication1\obj\Debug\net8.0\WebApplication1.pdb
+D:\git test\test\WebApplication1\obj\Debug\net8.0\WebApplication1.genruntimeconfig.cache
+D:\git test\test\WebApplication1\obj\Debug\net8.0\ref\WebApplication1.dll

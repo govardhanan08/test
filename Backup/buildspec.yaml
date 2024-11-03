@@ -1,0 +1,19 @@
+version: 0.2
+
+phases:
+  pre_build:
+    commands:
+      # - aws --version
+      #- TEMPVAR=$(aws ecr get-login-password)
+      # - docker login -u AWS --password $TEMPVAR "https://381492120534.dkr.ecr.us-east-1.amazonaws.com"
+      # - REPOSITORY_URI="public.ecr.aws/b2k9i0w8/test"
+      - aws ecr-public get-login-password --region us-east-1 | docker login --username AWS --password-stdin public.ecr.aws/b2k9i0w8
+  build:
+    commands:
+      # - echo "Hello World"
+        - docker build -t test https://github.com/govardhanan08/test.git#main:/
+        - docker tag test:latest public.ecr.aws/b2k9i0w8/test:latest
+  post_build:
+    commands:
+      #- docker images
+      - docker push public.ecr.aws/b2k9i0w8/test:latest
